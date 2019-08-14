@@ -1,0 +1,6 @@
+import React from 'react';
+import './About.css';
+
+const About = (props) => {
+    return <div className="About-container">This is about page.</div>
+}

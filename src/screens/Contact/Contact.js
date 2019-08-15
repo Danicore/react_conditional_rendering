@@ -4,3 +4,5 @@ import './Contact.css';
 const Contact = (props) => {
     return <div classname="Contact-container">This is contact page.</div>
 }
+
+export default Contact;
